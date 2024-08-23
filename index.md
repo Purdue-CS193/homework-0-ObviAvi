@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Avi Aggarwal's First CS193 Homework
 
 Favorite Things about CS193:
-- Lean useful skills that are not neccessarily coding, but computer science adjacent
+- Learn useful skills that are not neccessarily coding, but computer science adjacent
 - Low time commitment
 - Class not at unreasonable morning time
 
